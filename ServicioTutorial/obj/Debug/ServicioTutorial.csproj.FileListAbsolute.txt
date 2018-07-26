@@ -1,0 +1,7 @@
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\bin\ServicioTutorial.dll.config
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\bin\ServicioTutorial.dll
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\bin\ServicioTutorial.pdb
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\obj\Debug\ServicioTutorial.csproj.CoreCompileInputs.cache
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\obj\Debug\ServicioTutorial.dll
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\obj\Debug\ServicioTutorial.pdb
+e:\documentos\visual studio 2017\Projects\ServicioTutorial\ServicioTutorial\obj\Debug\ServicioTutorial.csprojResolveAssemblyReference.cache
